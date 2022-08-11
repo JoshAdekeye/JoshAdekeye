@@ -32,7 +32,7 @@ _____________________________________________________
 <br>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/JoshAdekeye/JoshAdekeye/blob/main/animation_500_kxa883sd.gifraw=true" width="500" height="450" />
+<img align="right" alt="GIF" src="https://github.com/JoshAdekeye/JoshAdekeye/blob/main/animation_500_kxa883sd.gif" width="500" height="450" />
 
 
 - 🔭 I’m currently working on **being a World-Class Clinical Data Scientist**
