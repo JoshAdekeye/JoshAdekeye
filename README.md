@@ -24,7 +24,7 @@ I am seeking a position as a Clinical Researcher and Health System Strengthening
 
 _____________________________________________________
 
-<p>Connect with me on
+<p>Connect with me on <img src="https://media2.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif?cid=ecf05e47qv7ouie935be4rwsg6prj1dlpqd8qa674wma8hho&rid=giphy.gif&ct=g" width="30px">
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/joshua-a-2130bb199/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -34,6 +34,24 @@ _____________________________________________________
 
 <img align="right" alt="GIF" src="https://github.com/Drimdave/Drimdave/blob/main/code.gif?raw=true" width="500" height="350" />
 
+
+- 🔭 I’m currently working on **being a World-Class Clinical Data Scientist**
+
+- 🌱 I’m currently learning **JavaScript, SAS, React**
+
+- 👯 I’m looking to collaborate on **any Data related project that interests me**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JoshAdekeye](https://github.com/JoshAdekeye)
+
+- 📝 I regularly write articles on
+
+- 💬 Ask me about **Python, R, PowerBi, Tableau, and many more**
+
+- 📫 How to reach me **adekeyejoshua.t@gmail.com**
+
+- 📄 Know about my experiences 
+
+- ⚡ Fun fact **I love learning and solving complex problems**
 
 
 
