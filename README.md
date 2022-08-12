@@ -6,6 +6,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D4DF7&width=435&lines=Versatile+Epidemiologist;Clinical+Data+Scientist;12+Years+Of+Professional+Experience;Health+Is+Wealth%2C+Nothing+Else" alt="Typing SVG" /></a>
 </p>
   
+  
+![GitHub followers](https://img.shields.io/github/followers/JoshAdekeye?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JoshAdekeye?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JoshAdekeye.repoName) <img src="https://komarev.com/ghpvc/?username=JoshAdekeye" alt="JoshAdekeye" />
+  
 ____________________________________
 
 # About me 👨🏾
@@ -16,24 +19,16 @@ Significant background in technical writing, study designs, disease surveillance
 Expertise in coordinating all aspects of clinical monitoring and site management processes to aid clinical trials. 
   
 I am seeking a position as a Clinical Researcher and Health System Strengthening Agent.</h3>
-  
-![github](https://img.shields.io/github/followers/JoshAdekeye?style=social)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshadekeye&label=Profile%20views&color=blue&style=flat" alt="joshadekeye" /> </p>
 
 _____________________________________________________
 
 <p>Connect with me on <img src="https://media2.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif?cid=ecf05e47qv7ouie935be4rwsg6prj1dlpqd8qa674wma8hho&rid=giphy.gif&ct=g" width="30px">
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/joshua-a-2130bb199/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
 
-[linkedin]: https://www.linkedin.com/in/joshua-a-2130bb199/
-[whatsapp]: https://wa.me/+1(469)699-1531
+[![@+1(469)699-1531](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+1(469)699-1531")](tel:+1(469)699-1531)
 
-
-<br>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/JoshAdekeye/JoshAdekeye/blob/main/animation_500_kxa883sd.gif" width="500" height="450" />
@@ -66,13 +61,13 @@ _____________________________________________________
 
 ## 📊 Github Stats
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshAdekeye&&theme=blue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshAdekeye&&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshAdekeye&show_icons=true&theme=blue)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshAdekeye&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JoshAdekeye's Github Stats">
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshAdekeye&theme=blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshAdekeye&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
