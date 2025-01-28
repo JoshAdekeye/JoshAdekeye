@@ -3,7 +3,7 @@
   
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D4DF7&width=435&lines=Versatile+Epidemiologist;Clinical+Data+Scientist;12+Years+Of+Professional+Experience;Health+Is+Wealth%2C+Nothing+Else" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D4DF7&width=435&lines=Versatile+Epidemiologist;Clinical+Data+Scientist;12+Years+Of+Professional+Experience" alt="Typing SVG" /></a>
 </p>
   
   
@@ -12,13 +12,7 @@
 ____________________________________
 
 # About me 👨🏾
-Versatile Epidemiologist and Clinical Data Scientist with over 12 years of experience in epidemiology, clinical research, data management, statistics, and health outcomes. 
-  
-Significant background in technical writing, study designs, disease surveillance, and clinical research. Forward-thinking and diligent with a hardworking and adaptable mentality. 
-  
-Expertise in coordinating all aspects of clinical monitoring and site management processes to aid clinical trials. 
-  
-I am seeking a position as a Clinical Researcher and Health System Strengthening Agent.</h3>
+</h3>
 
 _____________________________________________________
 
