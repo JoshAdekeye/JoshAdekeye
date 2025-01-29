@@ -28,25 +28,6 @@ _____________________________________________________
 <img align="right" alt="GIF" src="https://github.com/JoshAdekeye/JoshAdekeye/blob/main/animation_500_kxa883sd.gif" width="500" height="450" />
 
 
-- 🔭 I’m currently working on **being a World-Class Clinical Data Scientist**
-
-- 🌱 I’m currently learning **JavaScript, SAS, React**
-
-- 👯 I’m looking to collaborate on **any Data related project that interests me**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JoshAdekeye](https://github.com/JoshAdekeye)
-
-- 📝 I regularly write articles on
-
-- 💬 Ask me about **Python, R, PowerBi, Tableau, and many more**
-
-- 📫 How to reach me **adekeyejoshua.t@gmail.com**
-
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **I love learning and solving complex problems**
-
-
 ## 🛠️ My Skills
 
 <h3 align="left">Languages and Tools:</h3>
