@@ -13,11 +13,7 @@ ____________________________________
 
 # About me 👨🏾
 </h3>
-With over 13 years of expertise in the biotech and pharmaceutical sectors, I bring a proven track record of optimizing clinical trial data processes through innovation, precision, and leadership. Specializing in eCRF design, database development, and regulatory compliance, I leverage cutting-edge technologies such as AI, machine learning, and advanced analytics to enhance data quality and streamline workflows.
-
-My passion lies in bridging technical data expertise with impactful healthcare outcomes, collaborating across cross-functional teams to deliver patient-centered solutions. Whether it's leading CRO partnerships or implementing AI-driven automation, I’m committed to excellence, compliance, and innovation at every stage of clinical data management.
-
-Let’s connect to explore opportunities in transforming clinical trial data into actionable insights that advance global health initiatives.
+Analytics Delivery Manager and Clinical Data Scientist with 13+ years of experience in biotech and pharmaceuticals. Specializes in optimizing clinical trial data processes and healthcare technology through innovative, precise data workflows. Expert in eCRF design, database development, regulatory compliance, and leveraging AI, machine learning, and advanced analytics to convert complex data into actionable insights. Proven leader in project management, client relations, and team development, with a strong background in deploying cloud-based solutions (AWS/Azure) to enhance data quality and drive strategic, patient-centered outcomes.
 
 _____________________________________________________
 
