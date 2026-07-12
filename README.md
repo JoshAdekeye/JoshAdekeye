@@ -6,7 +6,7 @@
 
 ## 🌐 Connect with Me
 
-- **Portfolio:** [joshua-adekeye.vercel.app](https://joshua-adekeye.vercel.app/)
+- **Portfolio:** [joshua-adekeye.vercel.app])
 - **LinkedIn:** [linkedin.com/in/joshua-a-2130bb199](https://www.linkedin.com/in/joshua-a-2130bb199/)
 - **Email:** [adekeyejoshua.t@gmail.com](mailto:adekeyejoshua.t@gmail.com)
 
